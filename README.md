@@ -68,7 +68,7 @@ To run the backend
 
 ## SCREENSHOTS
 
-### 1:Landing Page
+### 1.Landing Page
 ![Screenshot (47)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/31bb01b6-6002-4ce1-9f75-d544c8801f4f)
 
 ### 2.Sign UP Page
