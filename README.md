@@ -60,10 +60,13 @@ To run the backend
 
 ## FEATURES
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+-Responsive Navbar
+-Some carousels
+-Login and SignUp
+-Products page which allows to buy Products
+-Add to cart page which shows products added in cart
+-Payment page
+-Filtering in Product Page
 
 
 ## SCREENSHOTS
