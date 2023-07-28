@@ -46,6 +46,8 @@ Install mongodb,mongoose,dotenv,express,cors,nodemon in the backend folder step 
 To start this project run
 
 ```bash
+  npm install
+  npm i @iconify/react
   npm start
 ```
 
