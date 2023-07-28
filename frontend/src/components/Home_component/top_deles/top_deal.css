@@ -1,0 +1,23 @@
+.otd{
+    background-color: #003774;
+}
+@media screen and (max-width: 890px){
+    /* .otd{
+        background-color: #003774;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 1rem;
+    } */
+    .deal_cerosel{
+        background-color: #003774;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 1rem;
+    }
+    .dc{
+        background-color: #003774;
+        display: grid;
+        grid-template-columns: 1fr;
+        row-gap: 1rem;
+    }
+}

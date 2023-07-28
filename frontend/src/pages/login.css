@@ -1,0 +1,170 @@
+#Container {
+  background-color: #004387;
+  width: 100%;
+  height: 60em;
+  padding-top: 7%;
+}
+
+#Box1 {
+  background-color: #004387;
+  width: 100%;
+  height: 40em;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#sub1 {
+  background-color: #003263;
+  width: 50%;
+  height: 35em;
+  margin-left: 30em;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+#sub2 {
+  width: 50%;
+  height: 35em;
+  margin-right: 30em;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+
+  background-color: white;
+}
+
+#name > h1 {
+  margin-top: 10%;
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+  color: white;
+  padding-top: 3em;
+}
+#new > h2 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: lighter;
+  color: white;
+}
+#new > p {
+  text-align: center;
+  font-size: 15px;
+  font-weight: lighter;
+  color: white;
+}
+#new {
+  margin-top: 5em;
+}
+
+#sign {
+  margin-top: 3em;
+}
+#sign > input {
+  text-align: center;
+}
+
+#sign > h1 {
+  font-size: 30px;
+  font-weight: 500;
+}
+form {
+  width: 300px;
+  display: block;
+  margin: auto;
+  padding: 20px;
+  margin-left: 0.3em;
+}
+form > input {
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+
+  border: 1px solid rgb(167, 164, 164);
+  width: 350px;
+  height: 40px;
+  background-color: rgb(247, 245, 245);
+  display: block;
+  margin: auto;
+}
+input[type="submit"] {
+  margin-top: 1.5em;
+  padding-top: 10px;
+  cursor: pointer;
+  color: white;
+  border-radius: 13px;
+  background-color: rgb(243, 102, 9);
+}
+form > label {
+  margin-left: -8.2em;
+}
+#ps {
+  cursor: pointer;
+  color: blue;
+}
+
+#good {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 1.5em;
+  gap: 23px;
+}
+#good > img {
+  height: 25px;
+  width: 48px;
+  position: absolute;
+  margin-top: -2.5em;
+  margin-left: -12em;
+}
+#apple {
+  position: absolute;
+  cursor: pointer;
+}
+#apple > img {
+  height: 25px;
+  margin-top: 2.5em;
+  margin-right: 12em;
+
+  width: 25px;
+}
+/* .gradient-custom-2 {  */
+/* fallback for old browsers */
+/* background: #003263;  */
+
+/* Chrome 10-25, Safari 5.1-6 */
+/*  background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);  */
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593); */
+/*  } 
+ 
+ @media (min-width: 768px) {
+   .gradient-form {
+     height: 100vh !important;
+   }
+ }
+ @media (min-width: 769px) {
+   .gradient-custom-2 {
+     border-top-right-radius: .3rem;
+     border-bottom-right-radius: .3rem;
+   }
+ } */
+/*  .divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.h-custom {
+  height: 100%;
+}
+@media (max-width: 450px) {
+  .h-custom {
+  height: 100%;
+  }
+} */

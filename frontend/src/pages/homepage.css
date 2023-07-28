@@ -1,0 +1,24 @@
+.nv{
+    padding-bottom: 110px;
+}
+@media screen and (max-width: 1300px){
+    /* .hs{
+        display: none;;
+    } */
+    .ct{
+        display: none;
+    }
+    .top_deals{
+        display: none;
+    }
+    .nv{
+
+        padding-bottom: 110px;
+    }
+    
+}
+@media screen and (max-width: 767px){
+    .nv{
+        padding-bottom: 0px;
+    }
+}
