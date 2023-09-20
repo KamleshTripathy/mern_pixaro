@@ -92,6 +92,8 @@ To run the backend
 
 [Screenshot (53)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/add487cf-429f-46c7-895c-321d362450e3)
 
+![Screenshot (48)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/eed321c4-4430-4532-b271-25f1709329e2)
+
 
 
 ## CONTRIBUTORS
