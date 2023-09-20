@@ -74,25 +74,29 @@ To run the backend
 ## SCREENSHOTS
 
 ### 1.Landing Page
-[Screenshot (47)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/31bb01b6-6002-4ce1-9f75-d544c8801f4f)
+![Screenshot (47)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/efe6c5b5-c5c0-48d4-add6-2fc6c7fabab7)
+
 
 ### 2.Sign UP Page
-[Screenshot (48)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/d188d240-797f-4ee6-af97-a67413728e40)
+![Screenshot (48)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/e62af41d-722b-4b9b-92ad-27612c31d753)
+
 
 ### 3.Sign In Page
-[Screenshot (49)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/3e67b321-9f3f-4c74-a1e4-5c6ba4f36461)
+![Screenshot (49)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/029b4947-7869-4835-95be-9cb7ddc1d004)
+
 
 ### 4.All Products Page
-[Screenshot (50)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/95e60e10-b45e-4613-9c4e-4aefaa29c830)
+![Screenshot (50)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/4c26c8d7-d462-4e21-a560-e9b77f63d3a3)
+
 
 ### 5.Cart Page
-[Screenshot (51)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/052602b7-d22e-4eeb-b8c8-1f314e8c59d8)
+![Screenshot (51)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/565ac180-96c8-4729-a86a-147ac276925c)
+
 ### 6.Checkout Page
-[Screenshot (52)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/7f6d84d7-bc52-48bd-944d-bcbcf2b7b264)
+![Screenshot (52)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/00796f88-d27d-4688-841d-6f7bd5d3468d)
 
-[Screenshot (53)](https://github.com/KamleshTripathy/mern_pixaro/assets/118545366/add487cf-429f-46c7-895c-321d362450e3)
+![Screenshot (53)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/ce5c64ea-56ff-403c-9b4f-66222b1c123f)
 
-![Screenshot (48)](https://github.com/KamleshTripathy/mern_pixaro/assets/134593046/eed321c4-4430-4532-b271-25f1709329e2)
 
 
 
